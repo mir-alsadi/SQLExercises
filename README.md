@@ -5,7 +5,6 @@ Files for SQL Joins: Country Data
 - countries.csv
 -
 -
-Files for SQL Basics - Retail Mart:
-- 
+Files for SQL Basics: Retail Mart
 -
 -
